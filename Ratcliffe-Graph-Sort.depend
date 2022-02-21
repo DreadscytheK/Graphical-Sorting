@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1624023625 source:c:\users\kenny\documents\github\graphicalsort-kenny-ratcliffe\ratcliffe-graph-sort\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<chrono>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"Sort.h"
+
+1624023670 source:c:\users\kenny\documents\github\graphicalsort-kenny-ratcliffe\ratcliffe-graph-sort\sort.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<chrono>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"Sort.h"
+
+1624023097 c:\users\kenny\documents\github\graphicalsort-kenny-ratcliffe\ratcliffe-graph-sort\sort.h
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1638155152 source:c:\users\kenny\documents\github\graphicalsort-kenny-ratcliffe\ratcliffe-graph-sort-no-delay\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<chrono>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"Sort.h"
+
+1624023097 c:\users\kenny\documents\github\graphicalsort-kenny-ratcliffe\ratcliffe-graph-sort-no-delay\sort.h
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+
+1638155544 source:c:\users\kenny\documents\github\graphicalsort-kenny-ratcliffe\ratcliffe-graph-sort-no-delay\sort.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<chrono>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"Sort.h"
+
